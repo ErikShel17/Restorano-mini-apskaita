@@ -31,13 +31,3 @@ Programa leidžia vartotojui pasirinkti vieną arba kelis patiekalus iš meniu, 
 - 🎯 Formatavimas su `iomanip`
 
 ---
-
-## 📁 Projekto failai
-
-```txt
-BreakfastOrder/
-│
-├── main.cpp
-├── menu.txt
-├── README.md
-└── receipt.txt
